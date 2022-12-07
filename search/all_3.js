@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gateway_0',['gateway',['../main_8cpp.html#a7f5e4435988c442ffce0ac2f1a53d866',1,'main.cpp']]]
+  ['eeprom_5fsize_0',['EEPROM_SIZE',['../main__cam_8cpp.html#ae3ef7bba113f663df6996f286b632a3f',1,'main_cam.cpp']]]
 ];

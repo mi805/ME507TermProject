@@ -2,6 +2,7 @@ var files_dup =
 [
     [ "507TPpage.cpp", "507_t_ppage_8cpp.html", null ],
     [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
+    [ "main_cam.cpp", "main__cam_8cpp.html", "main__cam_8cpp" ],
     [ "mainpage.cpp", "mainpage_8cpp.html", null ],
     [ "shares.h", "shares_8h.html", "shares_8h" ],
     [ "task_cam.cpp", "task__cam_8cpp.html", "task__cam_8cpp" ],

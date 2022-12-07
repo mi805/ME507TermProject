@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['main_2ecpp_0',['main.cpp',['../main_8cpp.html',1,'']]],
-  ['mainpage_2ecpp_1',['mainpage.cpp',['../mainpage_8cpp.html',1,'']]],
-  ['me507termproject_2',['ME507TermProject',['../index.html',1,'']]],
-  ['motors_5fshare_3',['motors_share',['../shares_8h.html#a07a405693329a46ccec054d28e08d8dd',1,'motors_share():&#160;shares.h'],['../main_8cpp.html#ac3cf62417de1eaee134bee546a635401',1,'motors_share(&quot;motors&quot;):&#160;main.cpp']]]
+  ['local_5fip_0',['local_ip',['../main_8cpp.html#a4bb2f6790489d53e1530b1f3bfdb043f',1,'main.cpp']]],
+  ['loop_1',['loop',['../main_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f',1,'loop(void):&#160;main.cpp'],['../main__cam_8cpp.html#afe461d27b9c48d5921c00d521181f12f',1,'loop():&#160;main_cam.cpp']]]
 ];
